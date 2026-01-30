@@ -1,0 +1,65 @@
+1. House Price Prediction (Regression)
+
+Algorithms: Linear Regression, Ridge, Lasso
+
+Concepts: Bias–variance, regularization
+
+Metrics: RMSE, MAE
+
+2. Student Performance Prediction (Regression)
+
+Predict final scores from attendance & assignments
+
+Feature scaling, correlation analysis
+
+3. Spam Email Classifier (Classification)
+
+Algorithms: Logistic Regression, Naive Bayes
+
+TF-IDF, Bag of Words
+
+Metrics: Precision, Recall, F1
+
+4. Credit Approval Classification
+
+Binary classification
+
+Handle missing values & imbalance
+
+ROC–AUC
+
+5. Iris Classification from Scratch
+
+Implement Logistic Regression using NumPy
+
+Gradient descent, loss curves
+
+6. Customer Churn Prediction
+
+Logistic Regression + Decision Trees
+
+Feature importance analysis
+
+7. Outlier Detection in Sensor Data (Anomaly)
+
+Z-Score, IQR
+
+Visualization-driven approach
+
+8. Fraud Detection (Simple)
+
+Isolation Forest
+
+Precision-Recall tradeoff
+
+9. Movie Recommendation (User-Based CF)
+
+Cosine similarity
+
+Cold start discussion
+
+10. Book Recommendation System (Item-Based CF)
+
+Similarity matrices
+
+Top-K recommendation

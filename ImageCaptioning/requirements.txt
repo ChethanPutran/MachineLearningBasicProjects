@@ -1,0 +1,6 @@
+torch==2.6.0+cu118
+torchaudio==2.6.0+cu118
+torchtext==0.18.0
+torchvision==0.21.0+cu118
+transformers==4.49.0
+pillow==11.0.0
